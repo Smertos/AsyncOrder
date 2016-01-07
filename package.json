@@ -1,0 +1,17 @@
+{
+  "name": "async-order",
+  "version": "1.0.0",
+  "description": "Simple library for ordering async functions",
+  "main": "async-order.js",
+  "author": "smertos",
+  "keywords": ["async", "order", "callback-hell"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Smertos/AsyncOrder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smertos/AsyncOrder/issues"
+  },
+  "homepage": "https://github.com/Smertos/AsyncOrder"
+}
